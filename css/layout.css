@@ -49,15 +49,17 @@ footer {
   height: 50%;
 }
 h1 {
-  font-size: 50px;
+  margin-left: 50px;
+  font-size: 40px;
 }
 
 h2 {
-  font-size: 50px;
+  font-size: 30px;
+  margin-left: 50px
 }
 
 p {
-  font-size: 25px;
+  font-size: 20px;
 }
 .home{
   height: 250px;
@@ -97,7 +99,9 @@ ul {
 } */
 .smaller-font {
   font-size: 15px;
-  margin-top: -45px;
+  float: right;
+  margin-right: 50px;
+  /* margin-top: -45px; */
 }
 
 
